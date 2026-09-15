@@ -244,4 +244,4 @@ This repository serves as the official landing page for AC3Filter. The software 
 **Get the most recent version of AC3Filter today!**
 
 ---
-**Last updated:** 2026-09-15 18:47:17 UTC
+**Last updated:** 2026-09-15 21:59:23 UTC
